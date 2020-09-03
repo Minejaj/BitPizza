@@ -15,4 +15,11 @@
 ## Commands coming soon to BitPizza:
 mute, unmute, meme, joke, dadjoke
 
-## We would love to hear your suggestions for the bot. Join our discord server and suggest your ideas in #suggestions!
+
+# Links:
+Discord Extreme List: https://discordextremelist.xyz/en-US/bots/bitpizza
+[Support Server](https://discord.gg/pQdNBYZ)
+[Bot Invite Link](https://discord.com/api/oauth2/authorize?client_id=714202739965427742&permissions=348613878&scope=bot)
+
+
+### We would love to hear your suggestions for the bot. Join our discord server and suggest your ideas in #suggestions!
