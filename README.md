@@ -1,16 +1,16 @@
 # BitPizza | Discord Bot
 
 ## BitPizza features:
-• Fun comamands (cat, dog, hug, kiss, userstats, avatar)
-• Utility commands (poll, info server, info user)
-• Moderation (ban, kick, clear, configure bot)
-• Other commands (help, privacy, enable xp, disable xp, bot-info)
-• Level System
+- Fun comamands (cat, dog, hug, kiss, userstats, avatar)<br>
+- Utility commands (poll, info server, info user)<br>
+- Moderation (ban, kick, clear, configure bot)<br>
+- Other commands (help, privacy, enable xp, disable xp, bot-info)<br>
+- Level System
 
 ## Features coming soon to BitPizza:
-• Warn System
-• Economy
-• Scheduled messages
+- Warn System<br>
+- Economy<br>
+- Scheduled messages
 
 ## Commands coming soon to BitPizza:
 mute, unmute, meme, joke, dadjoke
