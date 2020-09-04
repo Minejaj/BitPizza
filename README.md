@@ -19,6 +19,7 @@ mute, unmute, meme, joke, dadjoke
 # Links:
 - Discord Extreme List: https://discordextremelist.xyz/en-US/bots/bitpizza<br>
 - [Support Server](https://discord.gg/pQdNBYZ)<br>
+- [Donate](https://ko-fi.com/bitpizza)<br>
 - [Bot Invite Link](https://discord.com/api/oauth2/authorize?client_id=714202739965427742&permissions=348613878&scope=bot)<br>
 
 
