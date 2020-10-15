@@ -49,6 +49,35 @@ body {
 	}
 }
 
+a {
+  text-decoration: none;
+}
+
+u {
+  text-decoration: underline;
+}
+
+body {
+  color: black;
+}
+
+.container{
+    display: flex;
+}
+
+.fixed{
+    width: 250px;
+}
+
+.fixed2{
+    margin-left: 20px;
+    width: 250px;
+}
+
+.flex-item{
+    flex-grow: 1;
+}
+
 .title-text {
   font-size: 35px;
   text-decoration: bold;
@@ -79,9 +108,16 @@ body::-webkit-scrollbar-thumb {
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 <center><h1 class="font-lato title-text">We know you don't like paying for features.</h1>
 <h2 class="font-lato title-text">That's why there are no paid ones. <u>Forever.</u></h2>
-<div class="center-9"><a href="https://discord.com/api/oauth2/authorize?client_id=714202739965427742&permissions=348613878&scope=bot" target="_blank"><button class="modern-btn-orange font-nunito-700">Click to invite the bot</button></a><br>
-<a href="https://discord.gg/zQmHAqR" target="_blank"><button class="modern-btn-orange font-nunito-700">Support Server</button></a><br>
-<a href="docs/" target="_blank"><button class="modern-btn-orange font-nunito-700">Documentation (Commands)</button></a></div>
+<div class="container center-7">
+     <div class="fixed">
+       <a href="https://discord.gg/zQmHAqR" target="_blank"><button class="modern-btn-orange font-nunito-700">Support Server</button></a></div>
+
+     <div class="fixed2">
+       <a href="https://discord.com/api/oauth2/authorize?client_id=714202739965427742&permissions=348613878&scope=bot" target="_blank"><button class="modern-btn-orange font-nunito-700">Add bot</button></a></div>
+  
+     <div class="fixed2"><a href="docs/" target="_blank"><button class="modern-btn-orange font-nunito-700">Documentation (Commands)</button></a></div>
+     </div>
+     
 <p>Scroll down for more info.</p>
 
 <br><br><br><br>
@@ -93,7 +129,7 @@ body::-webkit-scrollbar-thumb {
 <br><br><br><br><br>
 
 <div class="center-8"><h2 class="font-lato">Haha funny lol</h2>
-Our bot also comes with <u>fun</u> commands, that allow you to browse <u>memes</u> on Discord. We also added cat and dog images commands but that's another topic.</div>
+Our bot comes with <u>fun</u> commands, that allow you to browse <u>memes</u> on Discord. We also added cat and dog images commands but that's another topic.</div>
 
 <br><br><br><br>
 <br><br><br><br>
